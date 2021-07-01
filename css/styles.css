@@ -253,6 +253,6 @@ body {
 
 /* подцветка активной страницы */
 
-.active {
+.site-nav .active {
   color: var(--accent-blue-colour);
 }
